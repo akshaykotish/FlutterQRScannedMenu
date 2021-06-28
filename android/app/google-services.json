@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250001821240",
+    "firebase_url": "https://learning-72e58-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "learning-72e58",
+    "storage_bucket": "learning-72e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250001821240:android:3f9f914aee65a5665260cd",
+        "android_client_info": {
+          "package_name": "com.dineeasy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250001821240-j88vcrcvaodhoapkodb0c14escpon5uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsjqjAw6nPdOyMRHWmgBH_lgBbFgmD5AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250001821240-j88vcrcvaodhoapkodb0c14escpon5uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
